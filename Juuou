@@ -116,6 +116,62 @@
         "Jack O'Lion": "/proxy/api/imgur/chapter/X2QOEFL/"
       },
       "last_updated": "1750467919"
-    }
+    },
+"6.5": {
+      "title": "Extra - A Scene From the Party",
+      "volume": "1",
+      "groups": {
+        "Jack O'Lion": "/proxy/api/imgur/chapter/upW3qEA/"
+      },
+      "last_updated": "1751298460"
+    },
+"6": {
+      "title": "How Demons Fight For Survival",
+      "volume": "1",
+      "groups": {
+        "Jack O'Lion": "/proxy/api/imgur/chapter/6ezuDTw/"
+      },
+      "last_updated": "1751298460"
+    },
+"5": {
+      "title": "Where Did the Slime Go?",
+      "volume": "1",
+      "groups": {
+        "Jack O'Lion": "/proxy/api/imgur/chapter/yITGSk7/"
+      },
+      "last_updated": "1751298460"
+    },
+"4": {
+      "title": "My Promise to You",
+      "volume": "1",
+      "groups": {
+        "Jack O'Lion": "/proxy/api/imgur/chapter/HxgRZtP/"
+      },
+      "last_updated": "1751298460"
+    },
+"3": {
+      "title": "Trial By Fire",
+      "volume": "1",
+      "groups": {
+        "Jack O'Lion": "/proxy/api/imgur/chapter/pf1AoKz/"
+      },
+      "last_updated": "1751298460"
+    },
+"2": {
+      "title": "Not Like Anyone I've Met Before",
+      "volume": "1",
+      "groups": {
+        "Jack O'Lion": "/proxy/api/imgur/chapter/yKmWKFK/"
+      },
+      "last_updated": "1751298460"
+    },
+"1": {
+      "title": "A Story About a Human and a Demon",
+      "volume": "1",
+      "groups": {
+        "Jack O'Lion": "/proxy/api/imgur/chapter/P58gAgj/"
+      },
+      "last_updated": "1751298460"
+    }  
   }
 }
